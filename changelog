@@ -1,5 +1,34 @@
-version 0.1
+version 0.2
 
+~ Improved
+	~ Episode and season matching prevention for older app/games releases
+	~ Matching of whatever at the end of rls names
+	~ Sports: Bundesliga, Rugby
+	~ MusicVideo type matching
+	~ Music type matching
+	~ Movie type matching
+	~ Games type matching
+	~ App type matching
+	~ Device matching
+	~ Subbed flag
+	~ CD source
+	~ DVD source
+	~ Anime title_extra matching
+	~ Creole language
+	~ OVA flag (Anime)
++ Added
+	+ Sizefix flag
+	+ Redump flag (GBA)
+	+ Patchfix flag
+	+ Hentai flag
+	+ Test cases
+	+ Azerbaijani language
+	+ Bosnian language
+	+ Bulgarian language
+	+ Croatian language
+	+ Kazakh language
+	+ Macedonian language
+	+ Sports: US Open, French open, Australian Open
 ~ Improved
 	~ Sports parsing: MLB, NHL, Formula X, Indycar, Moto X
 	~ Slovenian language
